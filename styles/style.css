@@ -303,7 +303,7 @@ button:hover {
 }
 @media (max-width: 850px) {
   .first-section .first-section__content .first-section__title {
-    margin-top: 50px;
+    margin-top: 110px;
     text-align: center;
     font-size: 60px;
   }
